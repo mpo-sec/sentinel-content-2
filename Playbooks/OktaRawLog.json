@@ -9,7 +9,7 @@
         "PlaybookName": {
             "defaultValue": "OktaEvents-to-Sentinel",
             "type": "String"
-        },
+        }, 
         "UserName": {
             "defaultValue": "<username>@<domain>",
             "type": "string"

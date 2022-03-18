@@ -9,7 +9,7 @@
         "workspace": {
             "type": "String"
         }
-    },
+    }, 
     "variables": {
         "parentResourceId": "[resourceId('Microsoft.Insights/workbooks', parameters('workbookId'))]"
     },
